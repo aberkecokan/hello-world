@@ -1,1 +1,25 @@
-{"enlem":"4","boylam":"5"}
+{
+  "degerler": 
+  [
+    {
+        "enlem":"0",
+        "boylam":"1"
+    },
+    {   
+            "enlem":"2",
+            "boylam":"3"
+        
+    },
+    
+    {
+        
+         "enlem":"7",
+            "boylam":"6"
+        
+    },
+    {
+         "enlem":"3",
+            "boylam":"9"
+    }
+  ]
+}
